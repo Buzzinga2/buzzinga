@@ -601,7 +601,7 @@ width:40px;
   padding-top:0px;
 }
 }
-@media(min-width:1025px){
+@media(min-width:1680px){
   
   .navigation .container a{
     color:black;
@@ -622,15 +622,15 @@ width:40px;
   }
   .bod{
     
-    width:1024px
+    width:1680px
   }
   .first::before {
-    width:1024px;
+    width:1680px;
   }
   .signn{
-    width:1024px;
+    width:1680px;
   }
   .rcontainer{
-    width:1024px;
+    width:1680px;
   }
 }
